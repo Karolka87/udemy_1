@@ -10,9 +10,8 @@ public class Main {
         System.out.println(legion.height);
 
     }
-
+}
     class Monitor {
         int width;
         int height;
     }
-}
